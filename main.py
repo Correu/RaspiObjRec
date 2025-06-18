@@ -1,12 +1,12 @@
 import cv2
-import numpy as np
+import numpy as np 
 import time
 from datetime import datetime
 import os
 
 # === Configuration ===
 camera_index = 0  # Change if needed
-output_dir = "/mnt/your_drive"  # Replace with your mounted drive path
+output_dir = "/home/user/Desktop/CamFootage"  # Replace with your mounted drive path
 min_area = 5000  # Minimum area size to detect motion (adjust based on dog size)
 record_seconds_after_motion = 10  # How long to record after motion stops
 
