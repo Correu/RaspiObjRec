@@ -15,4 +15,4 @@ Current design is a simple raspi 4 4gb with some cheap amazon case and an old we
 - [Amazon Raspberry Pi Case](https://www.amazon.com/Miuzei-Raspberry-Aluminum-Included-Black/dp/B07VX3HQGJ/ref=asc_df_B07VX3HQGJ?mcid=7c085a30b3d638e18d1562d910897a8c&hvocijid=10209688484617898042-B07VX3HQGJ-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10209688484617898042&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9192495&hvtargid=pla-2281435177378&psc=1)
 
 ## Software Used
-- [Roboflow](https://roboflow.com/)
+- [Roboflow](https://roboflow.com/) Computer vision integration
