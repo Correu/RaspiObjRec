@@ -16,3 +16,14 @@ Current design is a simple raspi 4 4gb with some cheap amazon case and an old we
 
 ## Software Used
 - [Roboflow](https://roboflow.com/) Computer vision integration
+- [OpenCV](https://docs.opencv.org/4.x/index.html) OpenCV for the camera object recognition.
+- [Python](https://www.python.org) Current Version of python was used.
+- [FFMpeg](https://ffmpeg.org/) Video format modification.
+
+## Current Stage
+ 
+ Camera is constantly running but only saves images when motion is detected.
+
+## Future Stages
+
+Monitor the area and sort the images into folders for sending to roboflow for data analysis of my dogs habits when I am not at the house.
